@@ -1,0 +1,2 @@
+# Julia MLP experiments
+To train an MLP with dual propagation on MNIST use the script `main.jl`. You can change hyper parameters and dualprop implementation type (the "learnmode" argument). We recommend you run experiments from the julia REPL to avoid paying the startup compilation price every time you run a new experiment. The experiments in the paper were run in julia 1.8, but it has also been tested on version 1.9 subsequently.
