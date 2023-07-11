@@ -1,6 +1,6 @@
 # Dual-Propagation
 Code for the paper *Dual Propagation: Accelerating Contrastive Hebbian Learning with Dyadic Neurons*
-## JAX_CNN_experimentswere
+## JAX_CNN_experiment
 - This directory contains code necessary for running the CNN experiments on CIFAR10, CIFAR100 and ImageNet32x32.
 - These experiments use the most effecient variant of dual propagation (described in the paper), which we have implemented on top of JAX autodiff for effeciency.
 
